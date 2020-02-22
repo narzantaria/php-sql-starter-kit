@@ -1,0 +1,13 @@
+img {max-width: 100%;}
+.brand-logo {padding: 0 10px !important;}
+.brand-logo i {font-size: 1.5em !important;}
+.wrapper {padding: 0 .75rem;}
+.hidden {display: none;}
+.submit {
+  cursor: pointer;
+	padding: 0;
+	border: none;
+	background: transparent;
+	line-height: unset;
+}
+nav {background-color: sienna;}
