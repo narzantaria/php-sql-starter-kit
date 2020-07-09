@@ -21,8 +21,8 @@
     <p><img src="img/table.png" alt=""></p>
     <p>Также нужно проставить правильные значения переменных для соединения с БД (в файлах addpost, updpost, removepost):</p>
     <h5>$servername = "localhost";</h5>
-    <h5>$username = "shutruk";</h5>
-    <h5>$password = "82gsu92x";</h5>
+    <h5>$username = "qwerty";</h5>
+    <h5>$password = "qwerty";</h5>
     <h5>$dbname = "qwerty";</h5>
   </div>
 </div>
